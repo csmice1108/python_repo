@@ -32,4 +32,4 @@ with open("weather.json", "r", encoding="utf-8") as f:
 
 print(data["result"][0]["citynow"]["city"])
 print("feat1")
-print("feat2")
+print("feat2222")
